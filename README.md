@@ -17,16 +17,18 @@
 
 ## 🧐 About Me
 
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I'm interested in **Learning something new**
-- 🎮 In my free time I like **Watching Anime & Gaming**
-- 💬 Ask me about **React, Next.js, & Python**
-
 <br/>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a6e25319-183d-42cd-9c53-5794a335f9cb" width="100%" />
 </div>
 <br/>
+
+- 🔭 I’m currently working on **Web Development Projects**
+- 🌱 I'm interested in **Learning something new**
+- 🎮 In my free time I like **Watching Anime & Gaming**
+- 💬 Ask me about **React, Next.js, & Python**
+
+
 
 ## 🏆 GitHub Stats
 
