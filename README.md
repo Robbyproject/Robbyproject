@@ -31,11 +31,12 @@
 ## 🏆 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Robyproject&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robbyproject&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbyproject&layout=compact&theme=radical&hide_border=true" height="150" />
   <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robbyproject&theme=react-dark&bg_color=0D1117&color=F47ebf&line=F47ebf&point=F47ebf&hide_border=true" width="100%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Robbyproject&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbyproject&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Robbyproject&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ## 🛠️ Tech Stack & Tools
@@ -62,3 +63,5 @@
 - 🛡️ Mendalami **Next.js** untuk aplikasi fullstack
 - 🎨 Belajar membuat UI yang lebih interaktif dengan **Tailwind CSS**
 - 🐍 Mengembangkan script otomatisasi dengan **Python**
+## 🏆 GitHub Stats
+
