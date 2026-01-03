@@ -24,7 +24,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/20232a/ffffff?text=Header+Anime+Image+Here" width="100%" />
+  <img src="https://github.com/user-attachments/assets/a6e25319-183d-42cd-9c53-5794a335f9cb" width="100%" />
 </div>
 <br/>
 
