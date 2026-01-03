@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Robby Fabian 👋</h1>
-<h3 align="center">Web Developer | Anime Lover | Gamer</h3>
+<h3 align="center">Web Developer | Graphic Designer | Gamer</h3>
 
 <p align="center">
   <a href="mailto:robbyfabian20@mail.com">
